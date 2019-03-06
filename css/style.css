@@ -1,0 +1,95 @@
+body{
+    background-color: steelblue;
+    margin: 0;
+    background-image: url(https://www.burning-glass.com/wp-content/uploads/coding_screen_400x300-e1535048737568.jpg);
+    background-repeat: no-repeat;
+    background-size: none;
+    background-position: top, center;
+    background-image: linear-gradient(red, green, yellow);
+}
+header {
+    background-color: rgb(235, 145, 28);
+    font-size: 48px;
+    font-family: 'Ranga', cursive;
+    margin: 3.125em 0;
+    width: 100%;
+    margin: 0 auto;
+    padding-left: 20px; 
+
+}
+nav ul {
+    margin: 0;
+    padding: 30px 0;
+    list-style-type: none;
+    float: right;
+    margin-left: 150px;
+}
+
+}
+
+a:hover{
+    color: rgba(0, 255, 251, 0.337);
+}
+
+image{
+    margin-left: 100px;
+    align-items: center;
+    
+    
+}
+h2{
+    background-color: olivedrab;
+    padding: 50px;
+    padding-right: 10px;
+    padding-left: 10px;
+    line-height: 90px;
+    margin: 50px;
+}
+
+/* IDs and Classes */
+
+#container {
+    margin: 0 10%;
+    background-color: rgb(245, 12, 12);
+}
+
+.container
+{
+    background-color: purple;
+    padding: 2%;
+    margin: 50px;
+}
+
+.intro {
+    text-align: right;
+    
+}
+
+button {
+    width: 100px;
+    padding: 10px;
+    text-orientation: sideways-right;
+    font-weight: 100;
+    background-color: springgreen;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: hotpink;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn {
+  text-align: center;
+  
+}
+
+.btn2 {
+    text-align: center;
+    background-color: goldenrod;
+}
+
+
